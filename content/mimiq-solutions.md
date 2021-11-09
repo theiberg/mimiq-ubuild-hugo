@@ -8,6 +8,10 @@ block = "header-1"
 logo = "/uploads/default.png"
 template = "navigation-header"
 [[page_sections.navigation]]
+link_text = "Home"
+link_url = ""
+open_in_new_tab = false
+[[page_sections.navigation]]
 link_text = "About"
 link_url = ""
 open_in_new_tab = false
