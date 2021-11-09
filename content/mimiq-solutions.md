@@ -29,5 +29,21 @@ block = "text-1"
 content = ""
 headline = ""
 template = "detail-content"
+[[page_sections]]
+block = "hero-1"
+heading = "The Team"
+template = "text-only-hero-banner"
+[[page_sections]]
+block = "three-column-1"
+template = "3-column-text"
+[page_sections.col_1]
+content = ""
+headline = "CEO"
+[page_sections.col_2]
+content = ""
+headline = "CTO"
+[page_sections.col_3]
+content = ""
+headline = "Chief Scientist"
 
 +++
